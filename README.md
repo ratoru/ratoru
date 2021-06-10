@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael.</h1>
 <h3 align="center">A curious human being.</h3>
 
-- 🔭 I’m currently working on [SpikeStats](https://spikestats.ratoru.com)
+- 🔭 I’m currently working on [SpikeStats](https://spikestats.ratoru.com).
 
 - 👨‍💻 All of my projects and blog posts are available at [ratoru.com](https://ratoru.com).
 

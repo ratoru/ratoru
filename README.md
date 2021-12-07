@@ -20,4 +20,4 @@ Getting a healthy mix of `It doesn't work...! Why?` and `It works...! Why?`.
 - React, Tailwind CSS
 
 
-![layered-waves-haikei](https://user-images.githubusercontent.com/44789473/145100955-1c4dffac-4ed7-4ef1-ae12-65db6b628a2a.png)
+![layered-waves-haikei](https://user-images.githubusercontent.com/44789473/145108392-f9f12080-963f-4f81-8b16-c250d8b11338.png)

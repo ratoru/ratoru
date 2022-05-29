@@ -3,8 +3,8 @@
 
 Getting a healthy mix of `It doesn't work...! Why?` and `It works...! Why?`.
 
-- 🔭 I’m currently working on [Spikestats](https://spikestats.ratoru.com/).
-- 🌱 I’m currently learning Solidity.
+- 🔭 I’m currently working on [Psetgroups](https://psetgroups.ratoru.com/).
+- 🌱 I’m currently learning about ZK-STARKs.
 - 👨‍💻 All of my projects are available at [ratoru.com](https://ratoru.com/).
 
 ## Connect with me

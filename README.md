@@ -3,7 +3,7 @@
 
 Getting a healthy mix of `It doesn't work...! Why?` and `It works...! Why?`.
 
-- 🔭 I’m currently working on [Psetgroups](https://psetgroups.ratoru.com/).
+- 🔭 I’m currently working on [Empiric Network](https://empiric.network/).
 - 🌱 I’m currently learning about ZK-STARKs.
 - 👨‍💻 All of my projects are available at [ratoru.com](https://ratoru.com/).
 
@@ -16,8 +16,8 @@ Getting a healthy mix of `It doesn't work...! Why?` and `It works...! Why?`.
 ## Languages and Tools
 
 - Python, C++
-- Rust, Solidity
+- [Cairo](https://www.cairo-lang.org/)
 - React, Tailwind CSS
-
+- Rust (soon)
 
 ![layered-waves-haikei](https://user-images.githubusercontent.com/44789473/145108392-f9f12080-963f-4f81-8b16-c250d8b11338.png)

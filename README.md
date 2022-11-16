@@ -3,8 +3,8 @@
 
 Getting a healthy mix of `It doesn't work...! Why?` and `It works...! Why?`.
 
-- 🔭 I’m currently working on [Empiric Network](https://empiric.network/).
-- 🌱 I’m currently learning about ZK-STARKs.
+- 🔭 I’m currently working on my website.
+- 🌱 I’m currently learning about parallel computing.
 - 👨‍💻 All of my projects are available at [ratoru.com](https://ratoru.com/).
 
 ## Connect with me

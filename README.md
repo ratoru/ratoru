@@ -1,12 +1,12 @@
-# Hi, I'm Raphael 🤝
+# Hello there 🤝
 
 I love designing and building complex systems.
 
-## 👀 My work
+## My work 👀
 
 All of my projects are available at [ratoru.com](https://ratoru.com/).
 
-## 🧞 Languages and Tools
+## Languages and Tools 🧞
 
 - **General:** Python, C, C++, TypeScript, (Rust)
 - **Crypto:** [Cairo](https://www.cairo-lang.org/)

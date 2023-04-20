@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">A curious human being</h3>
+# Hi, I'm Raphael 🤝
 
-Getting a healthy mix of `It doesn't work...! Why?` and `It works...! Why?`.
+I love designing and building complex systems.
 
-- 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning about operating systems and Three.js.
-- 👨‍💻 All of my projects are available at [ratoru.com](https://ratoru.com/).
+## 👀 My work
 
-## Connect with me
+All of my projects are available at [ratoru.com](https://ratoru.com/).
 
-<p align="left">
-    <a href="https://linkedin.com/in/ratoru" target="blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-</p>
+## 🧞 Languages and Tools
 
-## Languages and Tools
-
-- Python, C++
-- [Cairo](https://www.cairo-lang.org/)
-- React, Tailwind CSS
-- Rust (soon)
-
-![layered-waves-haikei](https://user-images.githubusercontent.com/44789473/145108392-f9f12080-963f-4f81-8b16-c250d8b11338.png)
+- **General:** Python, C, C++, TypeScript, (Rust)
+- **Crypto:** [Cairo](https://www.cairo-lang.org/)
+- **Web:** Next.js, Astro, React, Tailwind CSS

@@ -1,6 +1,6 @@
 # Hello there 🤝
 
-I love designing and building complex systems.
+I love building, devx, and keyboards.
 
 ## My work 👀
 
